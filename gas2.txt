@@ -1,0 +1,1015 @@
+NH3: 81904.02 Ohms
+2026-09-16 16:48:13.472 INFO     Oxidising: 4659.77 Ohms
+Reducing: 370666.67 Ohms
+NH3: 82291.01 Ohms
+2026-09-16 16:48:14.506 INFO     Oxidising: 4667.24 Ohms
+Reducing: 369929.13 Ohms
+NH3: 82426.97 Ohms
+2026-09-16 16:48:15.541 INFO     Oxidising: 4670.98 Ohms
+Reducing: 370482.04 Ohms
+NH3: 82563.19 Ohms
+2026-09-16 16:48:16.576 INFO     Oxidising: 4674.71 Ohms
+Reducing: 365737.27 Ohms
+NH3: 82349.24 Ohms
+2026-09-16 16:48:17.611 INFO     Oxidising: 4682.18 Ohms
+Reducing: 365917.81 Ohms
+NH3: 82252.21 Ohms
+2026-09-16 16:48:18.646 INFO     Oxidising: 4685.92 Ohms
+Reducing: 367185.92 Ohms
+NH3: 82271.60 Ohms
+2026-09-16 16:48:19.681 INFO     Oxidising: 4685.92 Ohms
+Reducing: 364477.82 Ohms
+NH3: 82174.68 Ohms
+2026-09-16 16:48:20.716 INFO     Oxidising: 4689.66 Ohms
+Reducing: 360568.05 Ohms
+NH3: 81961.93 Ohms
+2026-09-16 16:48:21.751 INFO     Oxidising: 4689.66 Ohms
+Reducing: 360392.06 Ohms
+NH3: 81711.33 Ohms
+2026-09-16 16:48:22.786 INFO     Oxidising: 4693.39 Ohms
+Reducing: 359339.23 Ohms
+NH3: 81595.98 Ohms
+2026-09-16 16:48:23.821 INFO     Oxidising: 4697.13 Ohms
+Reducing: 359164.28 Ohms
+NH3: 81500.00 Ohms
+2026-09-16 16:48:24.856 INFO     Oxidising: 4697.13 Ohms
+Reducing: 357422.82 Ohms
+NH3: 81231.97 Ohms
+2026-09-16 16:48:25.890 INFO     Oxidising: 4704.61 Ohms
+Reducing: 359339.23 Ohms
+NH3: 81117.42 Ohms
+2026-09-16 16:48:26.925 INFO     Oxidising: 4704.61 Ohms
+Reducing: 358989.47 Ohms
+NH3: 80926.92 Ohms
+2026-09-16 16:48:27.960 INFO     Oxidising: 4704.61 Ohms
+Reducing: 356557.56 Ohms
+NH3: 80623.23 Ohms
+2026-09-16 16:48:28.995 INFO     Oxidising: 4708.35 Ohms
+Reducing: 354153.97 Ohms
+NH3: 80528.61 Ohms
+2026-09-16 16:48:30.030 INFO     Oxidising: 4712.09 Ohms
+Reducing: 350265.46 Ohms
+NH3: 80302.03 Ohms
+2026-09-16 16:48:31.065 INFO     Oxidising: 4715.83 Ohms
+Reducing: 357249.48 Ohms
+NH3: 80377.47 Ohms
+2026-09-16 16:48:32.100 INFO     Oxidising: 4723.31 Ohms
+Reducing: 360920.47 Ohms
+NH3: 80926.92 Ohms
+2026-09-16 16:48:33.135 INFO     Oxidising: 4727.05 Ohms
+Reducing: 360392.06 Ohms
+NH3: 81270.19 Ohms
+2026-09-16 16:48:34.170 INFO     Oxidising: 4730.79 Ohms
+Reducing: 357596.31 Ohms
+NH3: 81251.08 Ohms
+2026-09-16 16:48:35.205 INFO     Oxidising: 4734.53 Ohms
+Reducing: 356212.46 Ohms
+NH3: 81404.15 Ohms
+2026-09-16 16:48:36.240 INFO     Oxidising: 4738.28 Ohms
+Reducing: 357596.31 Ohms
+NH3: 81595.98 Ohms
+2026-09-16 16:48:37.275 INFO     Oxidising: 4745.76 Ohms
+Reducing: 356040.13 Ohms
+NH3: 81749.83 Ohms
+2026-09-16 16:48:38.309 INFO     Oxidising: 4745.76 Ohms
+Reducing: 357943.72 Ohms
+NH3: 81749.83 Ohms
+2026-09-16 16:48:39.344 INFO     Oxidising: 4749.51 Ohms
+Reducing: 356384.94 Ohms
+NH3: 81788.34 Ohms
+2026-09-16 16:48:40.379 INFO     Oxidising: 4757.00 Ohms
+Reducing: 353812.89 Ohms
+NH3: 82077.89 Ohms
+2026-09-16 16:48:41.414 INFO     Oxidising: 4764.49 Ohms
+Reducing: 360216.22 Ohms
+NH3: 82465.86 Ohms
+2026-09-16 16:48:42.449 INFO     Oxidising: 4771.98 Ohms
+Reducing: 362336.16 Ohms
+NH3: 82816.90 Ohms
+2026-09-16 16:48:43.484 INFO     Oxidising: 4779.48 Ohms
+Reducing: 360216.22 Ohms
+NH3: 83209.04 Ohms
+2026-09-16 16:48:44.519 INFO     Oxidising: 4786.97 Ohms
+Reducing: 360744.19 Ohms
+NH3: 83544.10 Ohms
+2026-09-16 16:48:45.554 INFO     Oxidising: 4790.72 Ohms
+Reducing: 365196.58 Ohms
+NH3: 83682.54 Ohms
+2026-09-16 16:48:46.589 INFO     Oxidising: 4801.97 Ohms
+Reducing: 370851.45 Ohms
+NH3: 84478.91 Ohms
+2026-09-16 16:48:47.624 INFO     Oxidising: 4805.73 Ohms
+Reducing: 369010.78 Ohms
+NH3: 84679.42 Ohms
+2026-09-16 16:48:48.658 INFO     Oxidising: 4813.23 Ohms
+Reducing: 362513.80 Ohms
+NH3: 84699.50 Ohms
+2026-09-16 16:48:49.693 INFO     Oxidising: 4813.23 Ohms
+Reducing: 367731.73 Ohms
+NH3: 84820.12 Ohms
+2026-09-16 16:48:50.728 INFO     Oxidising: 4820.73 Ohms
+Reducing: 369929.13 Ohms
+NH3: 85304.66 Ohms
+2026-09-16 16:48:51.763 INFO     Oxidising: 4824.49 Ohms
+Reducing: 367185.92 Ohms
+NH3: 85365.46 Ohms
+2026-09-16 16:48:52.798 INFO     Oxidising: 4824.49 Ohms
+Reducing: 363582.80 Ohms
+NH3: 85203.44 Ohms
+2026-09-16 16:48:53.833 INFO     Oxidising: 4828.24 Ohms
+Reducing: 364836.89 Ohms
+NH3: 85203.44 Ohms
+2026-09-16 16:48:54.868 INFO     Oxidising: 4832.00 Ohms
+Reducing: 364298.51 Ohms
+NH3: 85122.57 Ohms
+2026-09-16 16:48:55.903 INFO     Oxidising: 4835.75 Ohms
+Reducing: 366279.35 Ohms
+NH3: 85122.57 Ohms
+2026-09-16 16:48:56.938 INFO     Oxidising: 4832.00 Ohms
+Reducing: 357943.72 Ohms
+NH3: 84699.50 Ohms
+2026-09-16 16:48:57.973 INFO     Oxidising: 4824.49 Ohms
+Reducing: 356384.94 Ohms
+NH3: 84179.21 Ohms
+2026-09-16 16:48:59.007 INFO     Oxidising: 4828.24 Ohms
+Reducing: 359339.23 Ohms
+NH3: 84079.59 Ohms
+2026-09-16 16:49:00.042 INFO     Oxidising: 4835.75 Ohms
+Reducing: 362513.80 Ohms
+NH3: 84278.96 Ohms
+2026-09-16 16:49:01.077 INFO     Oxidising: 4847.02 Ohms
+Reducing: 365016.66 Ohms
+NH3: 84699.50 Ohms
+2026-09-16 16:49:02.112 INFO     Oxidising: 4850.77 Ohms
+Reducing: 363582.80 Ohms
+NH3: 84860.37 Ohms
+2026-09-16 16:49:03.147 INFO     Oxidising: 4858.29 Ohms
+Reducing: 362869.53 Ohms
+NH3: 84880.50 Ohms
+2026-09-16 16:49:04.180 INFO     Oxidising: 4865.81 Ohms
+Reducing: 363761.50 Ohms
+NH3: 85061.97 Ohms
+2026-09-16 16:49:05.215 INFO     Oxidising: 4865.81 Ohms
+Reducing: 363047.62 Ohms
+NH3: 85142.78 Ohms
+2026-09-16 16:49:06.250 INFO     Oxidising: 4873.32 Ohms
+Reducing: 364836.89 Ohms
+NH3: 85304.66 Ohms
+2026-09-16 16:49:07.285 INFO     Oxidising: 4884.61 Ohms
+Reducing: 368644.55 Ohms
+NH3: 86058.23 Ohms
+2026-09-16 16:49:08.320 INFO     Oxidising: 4892.13 Ohms
+Reducing: 368461.67 Ohms
+NH3: 86530.73 Ohms
+2026-09-16 16:49:09.355 INFO     Oxidising: 4899.65 Ohms
+Reducing: 367549.63 Ohms
+NH3: 86716.48 Ohms
+2026-09-16 16:49:10.390 INFO     Oxidising: 4903.42 Ohms
+Reducing: 365376.66 Ohms
+NH3: 86654.51 Ohms
+2026-09-16 16:49:11.425 INFO     Oxidising: 4907.18 Ohms
+Reducing: 365016.66 Ohms
+NH3: 86633.86 Ohms
+2026-09-16 16:49:12.460 INFO     Oxidising: 4910.94 Ohms
+Reducing: 363940.35 Ohms
+NH3: 86757.82 Ohms
+2026-09-16 16:49:13.494 INFO     Oxidising: 4910.94 Ohms
+Reducing: 361450.23 Ohms
+NH3: 86468.92 Ohms
+2026-09-16 16:49:14.529 INFO     Oxidising: 4918.47 Ohms
+Reducing: 362158.68 Ohms
+NH3: 86386.59 Ohms
+2026-09-16 16:49:15.564 INFO     Oxidising: 4918.47 Ohms
+Reducing: 362691.59 Ohms
+NH3: 86386.59 Ohms
+2026-09-16 16:49:16.599 INFO     Oxidising: 4926.01 Ohms
+Reducing: 362513.80 Ohms
+NH3: 86324.91 Ohms
+2026-09-16 16:49:17.634 INFO     Oxidising: 4933.54 Ohms
+Reducing: 362336.16 Ohms
+NH3: 86283.82 Ohms
+2026-09-16 16:49:18.669 INFO     Oxidising: 4933.54 Ohms
+Reducing: 363047.62 Ohms
+NH3: 86304.36 Ohms
+2026-09-16 16:49:19.704 INFO     Oxidising: 4933.54 Ohms
+Reducing: 361627.12 Ohms
+NH3: 86304.36 Ohms
+2026-09-16 16:49:20.739 INFO     Oxidising: 4937.31 Ohms
+Reducing: 359864.98 Ohms
+NH3: 86058.23 Ohms
+2026-09-16 16:49:21.774 INFO     Oxidising: 4937.31 Ohms
+Reducing: 357943.72 Ohms
+NH3: 85812.95 Ohms
+2026-09-16 16:49:22.808 INFO     Oxidising: 4941.07 Ohms
+Reducing: 358117.65 Ohms
+NH3: 85874.19 Ohms
+2026-09-16 16:49:23.843 INFO     Oxidising: 4944.84 Ohms
+Reducing: 356903.23 Ohms
+NH3: 85792.55 Ohms
+2026-09-16 16:49:24.878 INFO     Oxidising: 4948.61 Ohms
+Reducing: 356040.13 Ohms
+NH3: 85629.54 Ohms
+2026-09-16 16:49:25.913 INFO     Oxidising: 4952.38 Ohms
+Reducing: 353983.36 Ohms
+NH3: 85507.54 Ohms
+2026-09-16 16:49:26.948 INFO     Oxidising: 4948.61 Ohms
+Reducing: 354495.63 Ohms
+NH3: 85082.16 Ohms
+2026-09-16 16:49:27.983 INFO     Oxidising: 4952.38 Ohms
+Reducing: 355352.25 Ohms
+NH3: 85041.79 Ohms
+2026-09-16 16:49:29.018 INFO     Oxidising: 4952.38 Ohms
+Reducing: 355009.17 Ohms
+NH3: 85021.61 Ohms
+2026-09-16 16:49:30.053 INFO     Oxidising: 4952.38 Ohms
+Reducing: 353302.33 Ohms
+NH3: 84860.37 Ohms
+2026-09-16 16:49:31.088 INFO     Oxidising: 4956.15 Ohms
+Reducing: 352962.66 Ohms
+NH3: 84840.24 Ohms
+2026-09-16 16:49:32.123 INFO     Oxidising: 4959.92 Ohms
+Reducing: 351441.09 Ohms
+NH3: 84820.12 Ohms
+2026-09-16 16:49:33.156 INFO     Oxidising: 4959.92 Ohms
+Reducing: 350098.06 Ohms
+NH3: 84478.91 Ohms
+2026-09-16 16:49:34.192 INFO     Oxidising: 4963.69 Ohms
+Reducing: 350098.06 Ohms
+NH3: 84539.00 Ohms
+2026-09-16 16:49:35.227 INFO     Oxidising: 4963.69 Ohms
+Reducing: 349763.69 Ohms
+NH3: 84119.42 Ohms
+2026-09-16 16:49:36.261 INFO     Oxidising: 4963.69 Ohms
+Reducing: 350600.66 Ohms
+NH3: 84059.68 Ohms
+2026-09-16 16:49:37.296 INFO     Oxidising: 4971.23 Ohms
+Reducing: 351272.73 Ohms
+NH3: 84119.42 Ohms
+2026-09-16 16:49:38.331 INFO     Oxidising: 4971.23 Ohms
+Reducing: 350432.99 Ohms
+NH3: 84019.89 Ohms
+2026-09-16 16:49:39.366 INFO     Oxidising: 4971.23 Ohms
+Reducing: 350768.47 Ohms
+NH3: 84099.50 Ohms
+2026-09-16 16:49:40.401 INFO     Oxidising: 4975.01 Ohms
+Reducing: 348597.70 Ohms
+NH3: 83920.50 Ohms
+2026-09-16 16:49:41.436 INFO     Oxidising: 4975.01 Ohms
+Reducing: 350265.46 Ohms
+NH3: 83980.12 Ohms
+2026-09-16 16:49:42.471 INFO     Oxidising: 4982.55 Ohms
+Reducing: 351272.73 Ohms
+NH3: 84338.89 Ohms
+2026-09-16 16:49:43.506 INFO     Oxidising: 4982.55 Ohms
+Reducing: 351778.24 Ohms
+NH3: 84378.86 Ohms
+2026-09-16 16:49:44.541 INFO     Oxidising: 4986.33 Ohms
+Reducing: 350098.06 Ohms
+NH3: 84358.87 Ohms
+2026-09-16 16:49:45.575 INFO     Oxidising: 4986.33 Ohms
+Reducing: 348265.79 Ohms
+NH3: 84159.27 Ohms
+2026-09-16 16:49:46.610 INFO     Oxidising: 4990.10 Ohms
+Reducing: 347438.40 Ohms
+NH3: 83940.37 Ohms
+2026-09-16 16:49:47.645 INFO     Oxidising: 4990.10 Ohms
+Reducing: 347108.38 Ohms
+NH3: 83860.93 Ohms
+2026-09-16 16:49:48.680 INFO     Oxidising: 4993.87 Ohms
+Reducing: 346121.58 Ohms
+NH3: 83821.25 Ohms
+2026-09-16 16:49:49.715 INFO     Oxidising: 4993.87 Ohms
+Reducing: 344487.61 Ohms
+NH3: 83603.40 Ohms
+2026-09-16 16:49:50.750 INFO     Oxidising: 4997.65 Ohms
+Reducing: 345139.60 Ohms
+NH3: 83623.18 Ohms
+2026-09-16 16:49:51.785 INFO     Oxidising: 4997.65 Ohms
+Reducing: 343513.58 Ohms
+NH3: 83563.86 Ohms
+2026-09-16 16:49:52.820 INFO     Oxidising: 4997.65 Ohms
+Reducing: 343189.96 Ohms
+NH3: 83445.39 Ohms
+2026-09-16 16:49:53.855 INFO     Oxidising: 5001.42 Ohms
+Reducing: 343351.70 Ohms
+NH3: 83307.42 Ohms
+2026-09-16 16:49:54.890 INFO     Oxidising: 5005.20 Ohms
+Reducing: 342061.39 Ohms
+NH3: 83032.30 Ohms
+2026-09-16 16:49:55.925 INFO     Oxidising: 5005.20 Ohms
+Reducing: 342705.50 Ohms
+NH3: 82895.15 Ohms
+2026-09-16 16:49:56.959 INFO     Oxidising: 5005.20 Ohms
+Reducing: 342383.19 Ohms
+NH3: 82836.46 Ohms
+2026-09-16 16:49:57.994 INFO     Oxidising: 5008.98 Ohms
+Reducing: 341579.67 Ohms
+NH3: 82758.27 Ohms
+2026-09-16 16:49:59.029 INFO     Oxidising: 5008.98 Ohms
+Reducing: 339823.29 Ohms
+NH3: 82543.72 Ohms
+2026-09-16 16:50:00.064 INFO     Oxidising: 5008.98 Ohms
+Reducing: 338871.79 Ohms
+NH3: 82329.82 Ohms
+2026-09-16 16:50:01.099 INFO     Oxidising: 5008.98 Ohms
+Reducing: 338082.37 Ohms
+NH3: 82097.24 Ohms
+2026-09-16 16:50:02.134 INFO     Oxidising: 5012.75 Ohms
+Reducing: 337139.21 Ohms
+NH3: 81865.44 Ohms
+2026-09-16 16:50:03.169 INFO     Oxidising: 5012.75 Ohms
+Reducing: 336356.69 Ohms
+NH3: 81672.86 Ohms
+2026-09-16 16:50:04.204 INFO     Oxidising: 5016.53 Ohms
+Reducing: 340619.72 Ohms
+NH3: 82039.22 Ohms
+2026-09-16 16:50:05.239 INFO     Oxidising: 5020.31 Ohms
+Reducing: 340939.19 Ohms
+NH3: 82310.41 Ohms
+2026-09-16 16:50:06.274 INFO     Oxidising: 5024.09 Ohms
+Reducing: 341579.67 Ohms
+NH3: 82446.41 Ohms
+2026-09-16 16:50:07.309 INFO     Oxidising: 5027.86 Ohms
+Reducing: 342705.50 Ohms
+NH3: 82641.16 Ohms
+2026-09-16 16:50:08.344 INFO     Oxidising: 5031.64 Ohms
+Reducing: 342866.86 Ohms
+NH3: 82816.90 Ohms
+2026-09-16 16:50:09.379 INFO     Oxidising: 5035.42 Ohms
+Reducing: 343837.73 Ohms
+NH3: 83110.80 Ohms
+2026-09-16 16:50:10.414 INFO     Oxidising: 5039.20 Ohms
+Reducing: 342705.50 Ohms
+NH3: 83189.38 Ohms
+2026-09-16 16:50:11.449 INFO     Oxidising: 5042.98 Ohms
+Reducing: 344000.00 Ohms
+NH3: 83150.08 Ohms
+2026-09-16 16:50:12.483 INFO     Oxidising: 5050.55 Ohms
+Reducing: 348100.04 Ohms
+NH3: 83623.18 Ohms
+2026-09-16 16:50:13.518 INFO     Oxidising: 5054.33 Ohms
+Reducing: 347934.43 Ohms
+NH3: 84000.00 Ohms
+2026-09-16 16:50:14.553 INFO     Oxidising: 5058.11 Ohms
+Reducing: 347438.40 Ohms
+NH3: 84298.93 Ohms
+2026-09-16 16:50:15.588 INFO     Oxidising: 5061.89 Ohms
+Reducing: 347108.38 Ohms
+NH3: 84438.87 Ohms
+2026-09-16 16:50:16.623 INFO     Oxidising: 5065.68 Ohms
+Reducing: 346285.71 Ohms
+NH3: 84338.89 Ohms
+2026-09-16 16:50:17.658 INFO     Oxidising: 5069.46 Ohms
+Reducing: 346614.38 Ohms
+NH3: 84458.89 Ohms
+2026-09-16 16:50:18.693 INFO     Oxidising: 5073.24 Ohms
+Reducing: 347768.95 Ohms
+NH3: 84579.09 Ohms
+2026-09-16 16:50:19.728 INFO     Oxidising: 5077.03 Ohms
+Reducing: 347934.43 Ohms
+NH3: 84679.42 Ohms
+2026-09-16 16:50:20.763 INFO     Oxidising: 5080.81 Ohms
+Reducing: 347768.95 Ohms
+NH3: 84719.59 Ohms
+2026-09-16 16:50:21.797 INFO     Oxidising: 5084.60 Ohms
+Reducing: 347603.60 Ohms
+NH3: 84900.64 Ohms
+2026-09-16 16:50:22.832 INFO     Oxidising: 5084.60 Ohms
+Reducing: 346285.71 Ohms
+NH3: 84800.00 Ohms
+2026-09-16 16:50:23.867 INFO     Oxidising: 5088.38 Ohms
+Reducing: 345302.93 Ohms
+NH3: 84759.78 Ohms
+2026-09-16 16:50:24.902 INFO     Oxidising: 5088.38 Ohms
+Reducing: 343513.58 Ohms
+NH3: 84539.00 Ohms
+2026-09-16 16:50:25.937 INFO     Oxidising: 5092.17 Ohms
+Reducing: 342544.28 Ohms
+NH3: 84259.00 Ohms
+2026-09-16 16:50:26.972 INFO     Oxidising: 5092.17 Ohms
+Reducing: 343351.70 Ohms
+NH3: 84079.59 Ohms
+2026-09-16 16:50:28.007 INFO     Oxidising: 5095.96 Ohms
+Reducing: 344324.94 Ohms
+NH3: 84259.00 Ohms
+2026-09-16 16:50:29.042 INFO     Oxidising: 5103.53 Ohms
+Reducing: 344487.61 Ohms
+NH3: 84478.91 Ohms
+2026-09-16 16:50:30.077 INFO     Oxidising: 5111.11 Ohms
+Reducing: 347108.38 Ohms
+NH3: 84739.68 Ohms
+2026-09-16 16:50:31.111 INFO     Oxidising: 5114.90 Ohms
+Reducing: 347934.43 Ohms
+NH3: 84860.37 Ohms
+2026-09-16 16:50:32.146 INFO     Oxidising: 5118.69 Ohms
+Reducing: 347934.43 Ohms
+NH3: 85001.43 Ohms
+2026-09-16 16:50:33.182 INFO     Oxidising: 5118.69 Ohms
+Reducing: 345466.40 Ohms
+NH3: 84981.26 Ohms
+2026-09-16 16:50:34.217 INFO     Oxidising: 5122.48 Ohms
+Reducing: 344650.41 Ohms
+NH3: 84820.12 Ohms
+2026-09-16 16:50:35.252 INFO     Oxidising: 5126.27 Ohms
+Reducing: 345466.40 Ohms
+NH3: 84840.24 Ohms
+2026-09-16 16:50:36.286 INFO     Oxidising: 5126.27 Ohms
+Reducing: 347603.60 Ohms
+NH3: 84860.37 Ohms
+2026-09-16 16:50:37.321 INFO     Oxidising: 5133.85 Ohms
+Reducing: 347273.32 Ohms
+NH3: 85021.61 Ohms
+2026-09-16 16:50:38.356 INFO     Oxidising: 5133.85 Ohms
+Reducing: 346614.38 Ohms
+NH3: 84920.79 Ohms
+2026-09-16 16:50:39.391 INFO     Oxidising: 5141.44 Ohms
+Reducing: 349596.71 Ohms
+NH3: 85284.40 Ohms
+2026-09-16 16:50:40.426 INFO     Oxidising: 5149.03 Ohms
+Reducing: 350936.42 Ohms
+NH3: 85609.20 Ohms
+2026-09-16 16:50:41.461 INFO     Oxidising: 5152.82 Ohms
+Reducing: 350265.46 Ohms
+NH3: 85853.77 Ohms
+2026-09-16 16:50:42.496 INFO     Oxidising: 5156.61 Ohms
+Reducing: 350098.06 Ohms
+NH3: 85833.36 Ohms
+2026-09-16 16:50:43.530 INFO     Oxidising: 5156.61 Ohms
+Reducing: 348597.70 Ohms
+NH3: 85751.76 Ohms
+2026-09-16 16:50:44.565 INFO     Oxidising: 5156.61 Ohms
+Reducing: 349263.16 Ohms
+NH3: 85751.76 Ohms
+2026-09-16 16:50:45.600 INFO     Oxidising: 5168.00 Ohms
+Reducing: 349763.69 Ohms
+NH3: 85976.38 Ohms
+2026-09-16 16:50:46.635 INFO     Oxidising: 5171.80 Ohms
+Reducing: 350600.66 Ohms
+NH3: 86119.68 Ohms
+2026-09-16 16:50:47.670 INFO     Oxidising: 5175.59 Ohms
+Reducing: 352454.21 Ohms
+NH3: 86407.17 Ohms
+2026-09-16 16:50:48.705 INFO     Oxidising: 5179.39 Ohms
+Reducing: 350936.42 Ohms
+NH3: 86510.12 Ohms
+2026-09-16 16:50:49.740 INFO     Oxidising: 5179.39 Ohms
+Reducing: 349096.59 Ohms
+NH3: 86263.28 Ohms
+2026-09-16 16:50:50.775 INFO     Oxidising: 5183.19 Ohms
+Reducing: 349263.16 Ohms
+NH3: 86140.18 Ohms
+2026-09-16 16:50:51.810 INFO     Oxidising: 5186.99 Ohms
+Reducing: 349930.81 Ohms
+NH3: 86283.82 Ohms
+2026-09-16 16:50:52.845 INFO     Oxidising: 5190.79 Ohms
+Reducing: 349263.16 Ohms
+NH3: 86304.36 Ohms
+2026-09-16 16:50:53.880 INFO     Oxidising: 5190.79 Ohms
+Reducing: 348763.86 Ohms
+NH3: 86407.17 Ohms
+2026-09-16 16:50:54.915 INFO     Oxidising: 5194.59 Ohms
+Reducing: 346943.58 Ohms
+NH3: 86366.03 Ohms
+2026-09-16 16:50:55.949 INFO     Oxidising: 5198.39 Ohms
+Reducing: 347108.38 Ohms
+NH3: 86468.92 Ohms
+2026-09-16 16:50:56.984 INFO     Oxidising: 5198.39 Ohms
+Reducing: 345793.72 Ohms
+NH3: 86427.75 Ohms
+2026-09-16 16:50:58.019 INFO     Oxidising: 5202.19 Ohms
+Reducing: 346449.98 Ohms
+NH3: 86427.75 Ohms
+2026-09-16 16:50:59.054 INFO     Oxidising: 5205.99 Ohms
+Reducing: 345629.99 Ohms
+NH3: 86366.03 Ohms
+2026-09-16 16:51:00.089 INFO     Oxidising: 5209.79 Ohms
+Reducing: 344650.41 Ohms
+NH3: 86366.03 Ohms
+2026-09-16 16:51:01.124 INFO     Oxidising: 5209.79 Ohms
+Reducing: 343837.73 Ohms
+NH3: 86345.47 Ohms
+2026-09-16 16:51:02.159 INFO     Oxidising: 5209.79 Ohms
+Reducing: 343189.96 Ohms
+NH3: 86201.70 Ohms
+2026-09-16 16:51:03.192 INFO     Oxidising: 5209.79 Ohms
+Reducing: 344000.00 Ohms
+NH3: 86283.82 Ohms
+2026-09-16 16:51:04.227 INFO     Oxidising: 5213.59 Ohms
+Reducing: 342866.86 Ohms
+NH3: 86222.22 Ohms
+2026-09-16 16:51:05.262 INFO     Oxidising: 5217.39 Ohms
+Reducing: 343675.59 Ohms
+NH3: 86283.82 Ohms
+2026-09-16 16:51:06.297 INFO     Oxidising: 5217.39 Ohms
+Reducing: 341900.69 Ohms
+NH3: 86078.71 Ohms
+2026-09-16 16:51:07.332 INFO     Oxidising: 5221.19 Ohms
+Reducing: 343028.34 Ohms
+NH3: 86140.18 Ohms
+2026-09-16 16:51:08.367 INFO     Oxidising: 5232.60 Ohms
+Reducing: 345957.59 Ohms
+NH3: 86510.12 Ohms
+2026-09-16 16:51:09.402 INFO     Oxidising: 5232.60 Ohms
+Reducing: 347603.60 Ohms
+NH3: 86799.19 Ohms
+2026-09-16 16:51:10.436 INFO     Oxidising: 5236.41 Ohms
+Reducing: 346943.58 Ohms
+NH3: 86944.16 Ohms
+2026-09-16 16:51:11.471 INFO     Oxidising: 5240.21 Ohms
+Reducing: 347273.32 Ohms
+NH3: 87006.38 Ohms
+2026-09-16 16:51:12.506 INFO     Oxidising: 5244.02 Ohms
+Reducing: 348431.68 Ohms
+NH3: 87110.21 Ohms
+2026-09-16 16:51:13.541 INFO     Oxidising: 5247.83 Ohms
+Reducing: 348763.86 Ohms
+NH3: 87318.31 Ohms
+2026-09-16 16:51:14.576 INFO     Oxidising: 5255.44 Ohms
+Reducing: 347934.43 Ohms
+NH3: 87401.72 Ohms
+2026-09-16 16:51:15.611 INFO     Oxidising: 5255.44 Ohms
+Reducing: 346449.98 Ohms
+NH3: 87339.15 Ohms
+2026-09-16 16:51:16.646 INFO     Oxidising: 5263.05 Ohms
+Reducing: 346285.71 Ohms
+NH3: 87568.83 Ohms
+2026-09-16 16:51:17.681 INFO     Oxidising: 5259.25 Ohms
+Reducing: 343351.70 Ohms
+NH3: 87027.14 Ohms
+2026-09-16 16:51:18.716 INFO     Oxidising: 5263.05 Ohms
+Reducing: 344324.94 Ohms
+NH3: 87006.38 Ohms
+2026-09-16 16:51:19.750 INFO     Oxidising: 5266.86 Ohms
+Reducing: 345466.40 Ohms
+NH3: 87214.18 Ohms
+2026-09-16 16:51:20.785 INFO     Oxidising: 5270.67 Ohms
+Reducing: 343513.58 Ohms
+NH3: 87130.99 Ohms
+2026-09-16 16:51:21.820 INFO     Oxidising: 5266.86 Ohms
+Reducing: 342544.28 Ohms
+NH3: 86902.71 Ohms
+2026-09-16 16:51:22.855 INFO     Oxidising: 5270.67 Ohms
+Reducing: 342866.86 Ohms
+NH3: 86840.58 Ohms
+2026-09-16 16:51:23.890 INFO     Oxidising: 5274.48 Ohms
+Reducing: 343513.58 Ohms
+NH3: 86840.58 Ohms
+2026-09-16 16:51:24.925 INFO     Oxidising: 5282.10 Ohms
+Reducing: 345629.99 Ohms
+NH3: 87276.64 Ohms
+2026-09-16 16:51:25.960 INFO     Oxidising: 5278.29 Ohms
+Reducing: 344324.94 Ohms
+NH3: 87047.90 Ohms
+2026-09-16 16:51:26.995 INFO     Oxidising: 5282.10 Ohms
+Reducing: 344650.41 Ohms
+NH3: 87006.38 Ohms
+2026-09-16 16:51:28.030 INFO     Oxidising: 5282.10 Ohms
+Reducing: 345466.40 Ohms
+NH3: 87234.99 Ohms
+2026-09-16 16:51:29.065 INFO     Oxidising: 5285.91 Ohms
+Reducing: 345139.60 Ohms
+NH3: 87443.46 Ohms
+2026-09-16 16:51:30.099 INFO     Oxidising: 5289.72 Ohms
+Reducing: 344487.61 Ohms
+NH3: 87506.12 Ohms
+2026-09-16 16:51:31.134 INFO     Oxidising: 5293.53 Ohms
+Reducing: 343028.34 Ohms
+NH3: 87464.34 Ohms
+2026-09-16 16:51:32.169 INFO     Oxidising: 5297.34 Ohms
+Reducing: 344162.40 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:51:33.203 INFO     Oxidising: 5301.16 Ohms
+Reducing: 344650.41 Ohms
+NH3: 87883.21 Ohms
+2026-09-16 16:51:34.238 INFO     Oxidising: 5301.16 Ohms
+Reducing: 342383.19 Ohms
+NH3: 87422.58 Ohms
+2026-09-16 16:51:35.272 INFO     Oxidising: 5304.97 Ohms
+Reducing: 345302.93 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:51:36.307 INFO     Oxidising: 5308.78 Ohms
+Reducing: 344487.61 Ohms
+NH3: 87568.83 Ohms
+2026-09-16 16:51:37.342 INFO     Oxidising: 5312.60 Ohms
+Reducing: 345466.40 Ohms
+NH3: 87568.83 Ohms
+2026-09-16 16:51:38.377 INFO     Oxidising: 5316.41 Ohms
+Reducing: 347108.38 Ohms
+NH3: 87736.33 Ohms
+2026-09-16 16:51:39.412 INFO     Oxidising: 5324.04 Ohms
+Reducing: 349096.59 Ohms
+NH3: 88156.79 Ohms
+2026-09-16 16:51:40.447 INFO     Oxidising: 5327.86 Ohms
+Reducing: 347603.60 Ohms
+NH3: 88262.30 Ohms
+2026-09-16 16:51:41.482 INFO     Oxidising: 5327.86 Ohms
+Reducing: 346121.58 Ohms
+NH3: 88114.64 Ohms
+2026-09-16 16:51:42.517 INFO     Oxidising: 5331.67 Ohms
+Reducing: 346121.58 Ohms
+NH3: 88156.79 Ohms
+2026-09-16 16:51:43.551 INFO     Oxidising: 5331.67 Ohms
+Reducing: 344976.40 Ohms
+NH3: 88093.57 Ohms
+2026-09-16 16:51:44.586 INFO     Oxidising: 5335.49 Ohms
+Reducing: 344976.40 Ohms
+NH3: 88072.50 Ohms
+2026-09-16 16:51:45.621 INFO     Oxidising: 5335.49 Ohms
+Reducing: 345302.93 Ohms
+NH3: 88030.40 Ohms
+2026-09-16 16:51:46.656 INFO     Oxidising: 5343.13 Ohms
+Reducing: 346121.58 Ohms
+NH3: 88093.57 Ohms
+2026-09-16 16:51:47.691 INFO     Oxidising: 5343.13 Ohms
+Reducing: 345793.72 Ohms
+NH3: 88135.71 Ohms
+2026-09-16 16:51:48.726 INFO     Oxidising: 5346.94 Ohms
+Reducing: 345139.60 Ohms
+NH3: 87967.28 Ohms
+2026-09-16 16:51:49.761 INFO     Oxidising: 5346.94 Ohms
+Reducing: 343837.73 Ohms
+NH3: 87883.21 Ohms
+2026-09-16 16:51:50.796 INFO     Oxidising: 5346.94 Ohms
+Reducing: 341740.11 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:51:51.831 INFO     Oxidising: 5346.94 Ohms
+Reducing: 341740.11 Ohms
+NH3: 87464.34 Ohms
+2026-09-16 16:51:52.866 INFO     Oxidising: 5350.76 Ohms
+Reducing: 341900.69 Ohms
+NH3: 87234.99 Ohms
+2026-09-16 16:51:53.900 INFO     Oxidising: 5350.76 Ohms
+Reducing: 341419.35 Ohms
+NH3: 87234.99 Ohms
+2026-09-16 16:51:54.935 INFO     Oxidising: 5350.76 Ohms
+Reducing: 340141.48 Ohms
+NH3: 87027.14 Ohms
+2026-09-16 16:51:55.970 INFO     Oxidising: 5350.76 Ohms
+Reducing: 340300.76 Ohms
+NH3: 87089.43 Ohms
+2026-09-16 16:51:57.005 INFO     Oxidising: 5354.58 Ohms
+Reducing: 340300.76 Ohms
+NH3: 87151.78 Ohms
+2026-09-16 16:51:58.040 INFO     Oxidising: 5358.40 Ohms
+Reducing: 341099.11 Ohms
+NH3: 87318.31 Ohms
+2026-09-16 16:51:59.075 INFO     Oxidising: 5358.40 Ohms
+Reducing: 341579.67 Ohms
+NH3: 87443.46 Ohms
+2026-09-16 16:52:00.110 INFO     Oxidising: 5358.40 Ohms
+Reducing: 340779.39 Ohms
+NH3: 87443.46 Ohms
+2026-09-16 16:52:01.145 INFO     Oxidising: 5362.22 Ohms
+Reducing: 340939.19 Ohms
+NH3: 87422.58 Ohms
+2026-09-16 16:52:02.180 INFO     Oxidising: 5366.04 Ohms
+Reducing: 340939.19 Ohms
+NH3: 87443.46 Ohms
+2026-09-16 16:52:03.215 INFO     Oxidising: 5369.86 Ohms
+Reducing: 341900.69 Ohms
+NH3: 87485.22 Ohms
+2026-09-16 16:52:04.249 INFO     Oxidising: 5373.68 Ohms
+Reducing: 343675.59 Ohms
+NH3: 87631.59 Ohms
+2026-09-16 16:52:05.284 INFO     Oxidising: 5381.33 Ohms
+Reducing: 344650.41 Ohms
+NH3: 87925.23 Ohms
+2026-09-16 16:52:06.319 INFO     Oxidising: 5381.33 Ohms
+Reducing: 343189.96 Ohms
+NH3: 87904.22 Ohms
+2026-09-16 16:52:07.354 INFO     Oxidising: 5385.15 Ohms
+Reducing: 343351.70 Ohms
+NH3: 88030.40 Ohms
+2026-09-16 16:52:08.389 INFO     Oxidising: 5385.15 Ohms
+Reducing: 343028.34 Ohms
+NH3: 88072.50 Ohms
+2026-09-16 16:52:09.424 INFO     Oxidising: 5388.98 Ohms
+Reducing: 341740.11 Ohms
+NH3: 88009.35 Ohms
+2026-09-16 16:52:10.459 INFO     Oxidising: 5388.98 Ohms
+Reducing: 342222.22 Ohms
+NH3: 87967.28 Ohms
+2026-09-16 16:52:11.494 INFO     Oxidising: 5388.98 Ohms
+Reducing: 340141.48 Ohms
+NH3: 87799.24 Ohms
+2026-09-16 16:52:12.529 INFO     Oxidising: 5388.98 Ohms
+Reducing: 339030.06 Ohms
+NH3: 87547.92 Ohms
+2026-09-16 16:52:13.563 INFO     Oxidising: 5392.80 Ohms
+Reducing: 339823.29 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:52:14.598 INFO     Oxidising: 5396.62 Ohms
+Reducing: 339823.29 Ohms
+NH3: 87527.01 Ohms
+2026-09-16 16:52:15.633 INFO     Oxidising: 5400.45 Ohms
+Reducing: 340141.48 Ohms
+NH3: 87736.33 Ohms
+2026-09-16 16:52:16.668 INFO     Oxidising: 5404.27 Ohms
+Reducing: 338397.76 Ohms
+NH3: 87757.29 Ohms
+2026-09-16 16:52:17.703 INFO     Oxidising: 5404.27 Ohms
+Reducing: 337767.48 Ohms
+NH3: 87652.53 Ohms
+2026-09-16 16:52:18.738 INFO     Oxidising: 5404.27 Ohms
+Reducing: 337139.21 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:52:19.773 INFO     Oxidising: 5408.10 Ohms
+Reducing: 336825.83 Ohms
+NH3: 87485.22 Ohms
+2026-09-16 16:52:20.808 INFO     Oxidising: 5408.10 Ohms
+Reducing: 337610.22 Ohms
+NH3: 87506.12 Ohms
+2026-09-16 16:52:21.843 INFO     Oxidising: 5411.93 Ohms
+Reducing: 337924.86 Ohms
+NH3: 87673.47 Ohms
+2026-09-16 16:52:22.877 INFO     Oxidising: 5415.75 Ohms
+Reducing: 337610.22 Ohms
+NH3: 87736.33 Ohms
+2026-09-16 16:52:23.912 INFO     Oxidising: 5419.58 Ohms
+Reducing: 338240.00 Ohms
+NH3: 87841.21 Ohms
+2026-09-16 16:52:24.947 INFO     Oxidising: 5423.41 Ohms
+Reducing: 336512.94 Ohms
+NH3: 87778.26 Ohms
+2026-09-16 16:52:25.982 INFO     Oxidising: 5423.41 Ohms
+Reducing: 337296.09 Ohms
+NH3: 87778.26 Ohms
+2026-09-16 16:52:27.016 INFO     Oxidising: 5427.24 Ohms
+Reducing: 336982.46 Ohms
+NH3: 87799.24 Ohms
+2026-09-16 16:52:28.050 INFO     Oxidising: 5427.24 Ohms
+Reducing: 336044.55 Ohms
+NH3: 87778.26 Ohms
+2026-09-16 16:52:29.085 INFO     Oxidising: 5431.06 Ohms
+Reducing: 335888.67 Ohms
+NH3: 87736.33 Ohms
+2026-09-16 16:52:30.120 INFO     Oxidising: 5431.06 Ohms
+Reducing: 336669.32 Ohms
+NH3: 87673.47 Ohms
+2026-09-16 16:52:31.155 INFO     Oxidising: 5434.89 Ohms
+Reducing: 336982.46 Ohms
+NH3: 87631.59 Ohms
+2026-09-16 16:52:32.190 INFO     Oxidising: 5434.89 Ohms
+Reducing: 336669.32 Ohms
+NH3: 87527.01 Ohms
+2026-09-16 16:52:33.225 INFO     Oxidising: 5434.89 Ohms
+Reducing: 334955.97 Ohms
+NH3: 87485.22 Ohms
+2026-09-16 16:52:34.260 INFO     Oxidising: 5442.55 Ohms
+Reducing: 337453.09 Ohms
+NH3: 87631.59 Ohms
+2026-09-16 16:52:35.295 INFO     Oxidising: 5446.38 Ohms
+Reducing: 337453.09 Ohms
+NH3: 87799.24 Ohms
+2026-09-16 16:52:36.330 INFO     Oxidising: 5446.38 Ohms
+Reducing: 336669.32 Ohms
+NH3: 87673.47 Ohms
+2026-09-16 16:52:37.365 INFO     Oxidising: 5446.38 Ohms
+Reducing: 335888.67 Ohms
+NH3: 87485.22 Ohms
+2026-09-16 16:52:38.399 INFO     Oxidising: 5446.38 Ohms
+Reducing: 336356.69 Ohms
+NH3: 87380.86 Ohms
+2026-09-16 16:52:39.434 INFO     Oxidising: 5446.38 Ohms
+Reducing: 335111.11 Ohms
+NH3: 87234.99 Ohms
+2026-09-16 16:52:40.469 INFO     Oxidising: 5450.22 Ohms
+Reducing: 335421.76 Ohms
+NH3: 87234.99 Ohms
+2026-09-16 16:52:41.504 INFO     Oxidising: 5450.22 Ohms
+Reducing: 335732.91 Ohms
+NH3: 87297.47 Ohms
+2026-09-16 16:52:42.539 INFO     Oxidising: 5454.05 Ohms
+Reducing: 336200.56 Ohms
+NH3: 87422.58 Ohms
+2026-09-16 16:52:43.574 INFO     Oxidising: 5457.88 Ohms
+Reducing: 336356.69 Ohms
+NH3: 87527.01 Ohms
+2026-09-16 16:52:44.609 INFO     Oxidising: 5461.71 Ohms
+Reducing: 335888.67 Ohms
+NH3: 87527.01 Ohms
+2026-09-16 16:52:45.644 INFO     Oxidising: 5465.54 Ohms
+Reducing: 336200.56 Ohms
+NH3: 87547.92 Ohms
+2026-09-16 16:52:46.678 INFO     Oxidising: 5465.54 Ohms
+Reducing: 335577.27 Ohms
+NH3: 87422.58 Ohms
+2026-09-16 16:52:47.713 INFO     Oxidising: 5465.54 Ohms
+Reducing: 334646.06 Ohms
+NH3: 87234.99 Ohms
+2026-09-16 16:52:48.748 INFO     Oxidising: 5469.38 Ohms
+Reducing: 335888.67 Ohms
+NH3: 87276.64 Ohms
+2026-09-16 16:52:49.783 INFO     Oxidising: 5469.38 Ohms
+Reducing: 336044.55 Ohms
+NH3: 87318.31 Ohms
+2026-09-16 16:52:50.818 INFO     Oxidising: 5477.05 Ohms
+Reducing: 338082.37 Ohms
+NH3: 87673.47 Ohms
+2026-09-16 16:52:51.853 INFO     Oxidising: 5477.05 Ohms
+Reducing: 337296.09 Ohms
+NH3: 87778.26 Ohms
+2026-09-16 16:52:52.888 INFO     Oxidising: 5480.88 Ohms
+Reducing: 335421.76 Ohms
+NH3: 87799.24 Ohms
+2026-09-16 16:52:53.923 INFO     Oxidising: 5480.88 Ohms
+Reducing: 335732.91 Ohms
+NH3: 87799.24 Ohms
+2026-09-16 16:52:54.957 INFO     Oxidising: 5480.88 Ohms
+Reducing: 334336.63 Ohms
+NH3: 87652.53 Ohms
+2026-09-16 16:52:55.992 INFO     Oxidising: 5484.72 Ohms
+Reducing: 333103.83 Ohms
+NH3: 87401.72 Ohms
+2026-09-16 16:52:57.026 INFO     Oxidising: 5484.72 Ohms
+Reducing: 333103.83 Ohms
+NH3: 87401.72 Ohms
+2026-09-16 16:52:58.060 INFO     Oxidising: 5484.72 Ohms
+Reducing: 330661.44 Ohms
+NH3: 87130.99 Ohms
+2026-09-16 16:52:59.095 INFO     Oxidising: 5492.39 Ohms
+Reducing: 332796.84 Ohms
+NH3: 87214.18 Ohms
+2026-09-16 16:53:00.130 INFO     Oxidising: 5488.55 Ohms
+Reducing: 331117.05 Ohms
+NH3: 87130.99 Ohms
+2026-09-16 16:53:01.165 INFO     Oxidising: 5492.39 Ohms
+Reducing: 334027.70 Ohms
+NH3: 87339.15 Ohms
+2026-09-16 16:53:02.200 INFO     Oxidising: 5500.06 Ohms
+Reducing: 335266.38 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:53:03.235 INFO     Oxidising: 5500.06 Ohms
+Reducing: 334182.11 Ohms
+NH3: 87568.83 Ohms
+2026-09-16 16:53:04.270 INFO     Oxidising: 5500.06 Ohms
+Reducing: 335421.76 Ohms
+NH3: 87610.67 Ohms
+2026-09-16 16:53:05.305 INFO     Oxidising: 5507.74 Ohms
+Reducing: 336669.32 Ohms
+NH3: 87799.24 Ohms
+2026-09-16 16:53:06.339 INFO     Oxidising: 5507.74 Ohms
+Reducing: 335577.27 Ohms
+NH3: 87736.33 Ohms
+2026-09-16 16:53:07.374 INFO     Oxidising: 5515.42 Ohms
+Reducing: 335421.76 Ohms
+NH3: 88030.40 Ohms
+2026-09-16 16:53:08.409 INFO     Oxidising: 5515.42 Ohms
+Reducing: 334336.63 Ohms
+NH3: 87841.21 Ohms
+2026-09-16 16:53:09.444 INFO     Oxidising: 5519.26 Ohms
+Reducing: 332950.28 Ohms
+NH3: 87967.28 Ohms
+2026-09-16 16:53:10.479 INFO     Oxidising: 5523.10 Ohms
+Reducing: 332796.84 Ohms
+NH3: 88093.57 Ohms
+2026-09-16 16:53:11.514 INFO     Oxidising: 5523.10 Ohms
+Reducing: 330206.90 Ohms
+NH3: 88051.45 Ohms
+2026-09-16 16:53:12.549 INFO     Oxidising: 5523.10 Ohms
+Reducing: 328849.67 Ohms
+NH3: 87820.22 Ohms
+2026-09-16 16:53:13.584 INFO     Oxidising: 5523.10 Ohms
+Reducing: 327352.78 Ohms
+NH3: 87547.92 Ohms
+2026-09-16 16:53:14.619 INFO     Oxidising: 5523.10 Ohms
+Reducing: 325571.82 Ohms
+NH3: 87047.90 Ohms
+2026-09-16 16:53:15.653 INFO     Oxidising: 5526.94 Ohms
+Reducing: 325571.82 Ohms
+NH3: 86964.90 Ohms
+2026-09-16 16:53:16.688 INFO     Oxidising: 5523.10 Ohms
+Reducing: 323953.74 Ohms
+NH3: 86386.59 Ohms
+2026-09-16 16:53:17.723 INFO     Oxidising: 5523.10 Ohms
+Reducing: 325424.15 Ohms
+NH3: 86201.70 Ohms
+2026-09-16 16:53:18.758 INFO     Oxidising: 5526.94 Ohms
+Reducing: 326460.23 Ohms
+NH3: 86078.71 Ohms
+2026-09-16 16:53:19.793 INFO     Oxidising: 5523.10 Ohms
+Reducing: 326905.98 Ohms
+NH3: 85976.38 Ohms
+2026-09-16 16:53:20.828 INFO     Oxidising: 5523.10 Ohms
+Reducing: 326015.50 Ohms
+NH3: 85792.55 Ohms
+2026-09-16 16:53:21.863 INFO     Oxidising: 5523.10 Ohms
+Reducing: 324834.62 Ohms
+NH3: 85568.51 Ohms
+2026-09-16 16:53:22.898 INFO     Oxidising: 5523.10 Ohms
+Reducing: 325276.60 Ohms
+NH3: 85507.54 Ohms
+2026-09-16 16:53:23.933 INFO     Oxidising: 5526.94 Ohms
+Reducing: 326015.50 Ohms
+NH3: 85812.95 Ohms
+2026-09-16 16:53:24.967 INFO     Oxidising: 5530.78 Ohms
+Reducing: 324981.83 Ohms
+NH3: 85629.54 Ohms
+2026-09-16 16:53:26.002 INFO     Oxidising: 5530.78 Ohms
+Reducing: 323953.74 Ohms
+NH3: 85548.18 Ohms
+2026-09-16 16:53:27.037 INFO     Oxidising: 5538.46 Ohms
+Reducing: 325719.60 Ohms
+NH3: 85609.20 Ohms
+2026-09-16 16:53:28.072 INFO     Oxidising: 5534.62 Ohms
+Reducing: 325571.82 Ohms
+NH3: 85609.20 Ohms
+2026-09-16 16:53:29.107 INFO     Oxidising: 5538.46 Ohms
+Reducing: 326163.63 Ohms
+NH3: 85527.86 Ohms
+2026-09-16 16:53:30.142 INFO     Oxidising: 5534.62 Ohms
+Reducing: 327054.80 Ohms
+NH3: 85466.92 Ohms
+2026-09-16 16:53:31.177 INFO     Oxidising: 5538.46 Ohms
+Reducing: 327800.62 Ohms
+NH3: 85507.54 Ohms
+2026-09-16 16:53:32.211 INFO     Oxidising: 5542.30 Ohms
+Reducing: 328249.51 Ohms
+NH3: 85609.20 Ohms
+2026-09-16 16:53:33.245 INFO     Oxidising: 5538.46 Ohms
+Reducing: 327352.78 Ohms
+NH3: 85507.54 Ohms
+2026-09-16 16:53:34.280 INFO     Oxidising: 5542.30 Ohms
+Reducing: 326608.70 Ohms
+NH3: 85426.32 Ohms
+2026-09-16 16:53:35.314 INFO     Oxidising: 5542.30 Ohms
+Reducing: 325571.82 Ohms
+NH3: 85243.91 Ohms
+2026-09-16 16:53:36.348 INFO     Oxidising: 5542.30 Ohms
+Reducing: 326905.98 Ohms
+NH3: 85304.66 Ohms
+2026-09-16 16:53:37.383 INFO     Oxidising: 5546.15 Ohms
+Reducing: 327800.62 Ohms
+NH3: 85426.32 Ohms
+2026-09-16 16:53:38.418 INFO     Oxidising: 5546.15 Ohms
+Reducing: 327352.78 Ohms
+NH3: 85284.40 Ohms
+2026-09-16 16:53:39.453 INFO     Oxidising: 5553.83 Ohms
+Reducing: 329904.46 Ohms
+NH3: 85670.26 Ohms
+2026-09-16 16:53:40.488 INFO     Oxidising: 5553.83 Ohms
+Reducing: 329000.00 Ohms
+NH3: 85894.62 Ohms
+2026-09-16 16:53:41.522 INFO     Oxidising: 5561.52 Ohms
+Reducing: 327352.78 Ohms
+NH3: 85976.38 Ohms
+2026-09-16 16:53:42.557 INFO     Oxidising: 5557.68 Ohms
+Reducing: 325276.60 Ohms
+NH3: 85751.76 Ohms
+2026-09-16 16:53:43.592 INFO     Oxidising: 5561.52 Ohms
+Reducing: 324834.62 Ohms
+NH3: 85711.00 Ohms
+2026-09-16 16:53:44.627 INFO     Oxidising: 5557.68 Ohms
+Reducing: 323076.92 Ohms
+NH3: 85304.66 Ohms
+2026-09-16 16:53:45.662 INFO     Oxidising: 5553.83 Ohms
+Reducing: 322785.55 Ohms
+NH3: 85061.97 Ohms
+2026-09-16 16:53:46.697 INFO     Oxidising: 5546.15 Ohms
+Reducing: 324393.67 Ohms
+NH3: 84961.10 Ohms
+2026-09-16 16:53:47.731 INFO     Oxidising: 5557.68 Ohms
+Reducing: 328399.38 Ohms
+NH3: 85487.22 Ohms
+2026-09-16 16:53:48.766 INFO     Oxidising: 5561.52 Ohms
+Reducing: 327800.62 Ohms
+NH3: 85731.38 Ohms
+2026-09-16 16:53:49.800 INFO     Oxidising: 5557.68 Ohms
+Reducing: 328399.38 Ohms
+NH3: 85731.38 Ohms
+2026-09-16 16:53:50.834 INFO     Oxidising: 5557.68 Ohms
+Reducing: 327203.73 Ohms
+NH3: 85772.15 Ohms
+2026-09-16 16:53:51.869 INFO     Oxidising: 5565.37 Ohms
+Reducing: 329150.45 Ohms
+NH3: 86099.19 Ohms
+2026-09-16 16:53:52.904 INFO     Oxidising: 5569.22 Ohms
+Reducing: 327800.62 Ohms
+NH3: 86160.68 Ohms
+2026-09-16 16:53:53.939 INFO     Oxidising: 5576.91 Ohms
+Reducing: 325424.15 Ohms
+NH3: 85955.93 Ohms
+2026-09-16 16:53:54.973 INFO     Oxidising: 5573.06 Ohms
+Reducing: 324393.67 Ohms
+NH3: 85487.22 Ohms
+2026-09-16 16:53:56.008 INFO     Oxidising: 5573.06 Ohms
+Reducing: 322931.18 Ohms
+NH3: 85264.15 Ohms
+2026-09-16 16:53:57.043 INFO     Oxidising: 5573.06 Ohms
+Reducing: 324246.91 Ohms
+NH3: 85102.36 Ohms
+2026-09-16 16:53:58.078 INFO     Oxidising: 5573.06 Ohms
+Reducing: 326460.23 Ohms
+NH3: 85264.15 Ohms
+2026-09-16 16:53:59.113 INFO     Oxidising: 5576.91 Ohms
+Reducing: 325719.60 Ohms
+NH3: 85466.92 Ohms
+2026-09-16 16:54:00.148 INFO     Oxidising: 5576.91 Ohms
+Reducing: 323076.92 Ohms
+NH3: 85264.15 Ohms
+2026-09-16 16:54:01.183 INFO     Oxidising: 5576.91 Ohms
+Reducing: 321769.26 Ohms
+NH3: 84679.42 Ohms
+2026-09-16 16:54:02.218 INFO     Oxidising: 5576.91 Ohms
+Reducing: 321769.26 Ohms
+NH3: 84498.93 Ohms
